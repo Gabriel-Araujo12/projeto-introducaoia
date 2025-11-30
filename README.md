@@ -42,10 +42,15 @@ python main.py
 
 ## Estrutura dos Arquivos
 
-  * `src/`: Código-fonte da aplicação.
-  * `data/`: Datasets utilizados.
+  * `main.py`: Código-fonte da aplicação.
+  * `sinresp.csv`: Base de dados utilizada para o treinamento do modelo.
+  * `teste.csv`: Base de dados com novos pacientes realizar a predição.
+  * `requirements.txt`: Lista de dependências do projeto.
+  * `README.md`: Documentação do projeto.
 
 ## Resultados e Demonstração
+
+Abaixo, um exemplo do relatório gerado pelo sistema ao inicializar o modelo e classificar novos pacientes:
 
 <img width="581" height="461" alt="image" src="https://github.com/user-attachments/assets/dd102031-afca-4331-94d3-4cff2139298c" />
 
