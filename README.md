@@ -12,7 +12,8 @@
 
 ## Descrição do Projeto
 O projeto tem como principal objetivo desenvolver um sistema inteligente de apoio à decisão médica, focado na predição de risco de óbito em pacientes com Síndrome Respiratória Aguda Grave (SRAG).
-  O modelo foi criado usando o KNN, algoritmo de aprendizado de máquina supervisionado, e um banco de dados disponibilizado no site OpenDataSUS para agir como a base do conhecimento. Além disso, também foram utilizadas algumas bibliotecas da linguagem Python, como Pandas e Scikit-Learn.
+
+O modelo foi criado usando o KNN, algoritmo de aprendizado de máquina supervisionado, e um banco de dados disponibilizado no site OpenDataSUS para agir como a base do conhecimento. Além disso, também foram utilizadas algumas bibliotecas da linguagem Python, como Pandas e Scikit-Learn.
 
 ## Guia de Instalação e Execução
 [Descreva os passos para instalacao e execucao do projeto. Inclua um passo-a-passo claro de como utilizar a proposta desenvolvida. Veja o exemplo abaixo.]
