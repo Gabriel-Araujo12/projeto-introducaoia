@@ -22,10 +22,10 @@ Certifique-se de ter o **Python 3.x** instalado. Clone o repositório e instale 
 
 ```bash
 # Clone o repositório
-git clone [https://github.com/usuario/nome-do-repo.git](https://github.com/usuario/nome-do-repo.git)
+git clone [https://github.com/Gabriel-Araujo12/projeto-introducaoia.git](https://github.com/Gabriel-Araujo12/projeto-introducaoia.git)
 
 # Entre na pasta do projeto
-cd nome-do-repo
+cd projeto-introducaoia
 
 # Instale as dependências
 pip install -r requirements.txt
@@ -33,14 +33,12 @@ pip install -r requirements.txt
 
 ### 2. Como Executar
 
-Execute o comando abaixo no terminal para iniciar o servidor local:
+Execute o comando abaixo no terminal para inicializar o projeto:
 
 ```bash
-# Execute o código
-streamlit run src/app.py
+# Execute o código principal
+python main.py
 ```
-
-Se necessário, especifique a porta ou url de acesso, ex: http://localhost:8501
 
 ## Estrutura dos Arquivos
 
@@ -53,5 +51,7 @@ Se necessário, especifique a porta ou url de acesso, ex: http://localhost:8501
 
 ## Referências
 
-  * [Link para o Dataset original]
-  * [Artigo, Documentação ou Tutorial utilizado como base]
+  * https://opendatasus.saude.gov.br/dataset/srag-2021-a-2024
+  * https://www.ibm.com/br-pt/think/topics/knn
+  * https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall
+  * https://www.kaggle.com/code/alirezahasannejad/knn-tutorial-breast-cancer
