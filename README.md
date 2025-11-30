@@ -3,7 +3,7 @@
 **Disciplina:** Introdução à Inteligência Artificial  
 **Semestre:** 2025.2  
 **Professor:** Andre Luis Fonseca Faustino
-**Turma:** [T03]
+**Turma:** T03
 
 ## Integrantes do Grupo
 * Gabriel Araújo Ribeiro (20240022019)
@@ -47,7 +47,7 @@ python main.py
 
 ## Resultados e Demonstração
 
-[Adicione prints da aplicação em execução ou gráficos com os resultados do modelo/agente. Se for uma aplicação Web, coloque um print da interface.]
+<img width="581" height="461" alt="image" src="https://github.com/user-attachments/assets/dd102031-afca-4331-94d3-4cff2139298c" />
 
 ## Referências
 
