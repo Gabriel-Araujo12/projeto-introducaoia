@@ -3,7 +3,6 @@
 **Disciplina:** Introdução à Inteligência Artificial  
 **Semestre:** 2025.2  
 **Professor:** Andre Luis Fonseca Faustino
-
 **Turma:** T03
 
 ## Integrantes do Grupo
